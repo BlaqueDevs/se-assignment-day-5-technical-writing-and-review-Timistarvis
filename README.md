@@ -12,9 +12,8 @@ For Regular Folks using plain language is very advisable and showing simple illu
 5. Tell people what the product does right away.
 6.  Use examples and visuals to explain things.
 
-
-
 ## 2. What are some strategies to tailor your content to different audience types?
+
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
